@@ -1,74 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Dr. Thaddeus 'Rusty' Venture",
-    "image": "http://www.colinkienitz.com/vbsite/images/doc.png",
-    "occupation": "Former boy adventurer"
+    "name": "Sterling Malory Archer",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/3/3f/Sterling_Archer_Standing_POSE.png/revision/latest?cb=2015112",
+    "intel": "Sterling was born in Tangier as the only child of Malory Archer, the retired agent-turned-director of the New York-based International Secret Intelligence Service (ISIS). The whereabouts of his biological father are unknown barring a fake identity conceived by Malory. Sterling spent his youth at a boarding school, where he excelled at lacrosse. As a result, he was offered an athletic scholarship to Johns Hopkins University, but the offer falls through after Sterling is shot in the abdomen. Although not explicitly stated, a photo hints Sterling may have instead graduated from Georgetown University."
   },
   {
     "id": 2,
-    "name": "Brock Samson",
-    "image": "http://www.colinkienitz.com/vbsite/images/brock.png",
-    "occupation": "Bodyguard to the Venture family"
+    "name": "Lana Kane",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/e/e8/Lana_Kane.png/revision/latest/scale-to-width-down/200?cb=20151013033343",
+    "intel": "As a child, Lana was highly pressured by her parents, who were both college professors, to succeed. She was so nervous about going to science fairs that it led to her throwing up in the car. Lana got her job as an ISIS agent during a protest at a local furrier. She was about to throw red paint on Malory Archer's new fur when Malory pointed her gun at Lana's forehead. The rest of the protesters fled, including Joshua Gray, but Lana was not intimidated. Malory, impressed by her nerve, offered Lana a job. Three weeks later, she was on her first mission in Tunisia 'killing a different man,' referencing that she restructured her priorities from being a college protester (sticking it to 'the man') to who she is now."
   },
   {
     "id": 3,
-    "name": "Henry Allen 'Hank' Venture",
-    "image": "http://www.colinkienitz.com/vbsite/images/hank.png",
-    "occupation": "Titular fraternal twin to Dean Venture"
+    "name": "Pam Poovey",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/b/b9/Pam_Poovey.png/revision/latest?cb=20141013063722",
+    "intel": "She condescends to the staff by talking through a dolphin puppet in disciplinary meetings, and she regularly gossips confidential information to the whole office, though she also relishes revealing more personal information (such as a co-worker being stricken with cancer) and post office gossip on her blog. She's commented that the vast majority of work at her job is filing sexual harassment complaints leveled against Archer. She is fond of bear claws and has been known to make growling sounds while eating them. She is also highly allergic to soy and soy-meat, but will keep on eating it if it tastes exactly like its meat counterpart. She carries a bug-out bag containing corn liquor in anticipation of TEOTWAWKI (The End Of The World As We Know It)."
   },
   {
     "id": 4,
-    "name": "Dean Venture",
-    "image": "http://www.colinkienitz.com/vbsite/images/dean.png",
-    "occupation": "Titular fraternal twin to Hank Venture"
+    "name": "Doctor Algernop Krieger",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/b/bb/Algernop_Krieger.png/revision/latest?cb=20151013042053",
+    "intel": "The head of the ISIS applied research department. He spends most of his time working on projects to facilitate his kinky fantasies, including an advanced robot named Fister Roboto, a drug that instills urges in its users, various animal-human hybrids, and a holographic anime girlfriend simulation so real that the state of New York legally allowed him to marry it (their plans were scuttled because 'society couldn't deal with it'). Krieger has also displayed a fetish for homeless people and especially bumfights, though that fetish seems to have evolved to include specialized weapons, such as electrified boxing gloves."
   },
   {
     "id": 5,
-    "name": "Triana Orpheus",
-    "image": "https://vignette.wikia.nocookie.net/venturebrothers/images/7/74/Triana01.png/revision/latest?cb=20181006015253",
-    "occupation": "Dr. Orpheus's 17-year-old quasi-goth daughter"
+    "name": "Cheryl Tunt",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/f/fb/Cheryl_Tunt01.png/revision/latest/scale-to-width-down/200?cb=20151013030824",
+    "intel": "Often found drinking glue, and suffers from pyromaniac and sadomasochistic tendencies. Cheryl continually demonstrates an alarming lack of intelligence yet makes references to obscure historical figures like Earl Butz, Elisha Otis and Granuaile O'Malley. She is repulsed by people with cancer (although she often either forgets, or does not even know, what cancer is), the handicapped, babies (though she hoped she was pregnant after having sex with Conway Stern), the deaf, and 'dwarfs'. She has also been known to shout or scream, whenever someone tells her to do something, 'You're not my supervisor!'"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://orig00.deviantart.net/08a0/f/2011/282/1/7/henchman_21_by_the_real_iceman-d4ccmgm.png",
-    "occupation": "Student"
+    "name": "Cyril Figgis",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/d/dc/Cyril_Figgis.png/revision/latest?cb=20141013063526",
+    "intel": "A buttoned-down nebbish who has brown, graying hair and brown eyes. He wears browline glasses and chops supper vegetables in his office. Cyril is also so remarkably well-endowed that he once put in a claim for 'penis ensmallment' surgery, as Pam and Cheryl are shocked to learn when they hack into the company's medical records. Manipulated by Cheryl, Cyril cheats on Lana with her, ISIS office drone 'Scatterbrain' Jane, Trinette the callgirl (who he had a son with), Framboise (the former head of HR at ODIN), and Malory Archer. Lana broke up with him when she caught him with Framboise."
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFI47goAVF00hiW60UJYRTjOGpuNJ0VWFQjGxwCcv7BcaH4Fg3",
-    "occupation": "Looney Toon"
+    "name": "Malory Archer",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/2/26/Malory_Archer.png/revision/latest?cb=20141013063353",
+    "intel": "Sterling Archer's mother and the former head of ISIS, is a self-centered alcoholic who regularly hatches half-baked, invariably disastrous schemes to use the agency's resources to her own personal advantage; she has staged a false assassination attempt on a U.N. official to secure a lucrative government contract and called in a fake bomb threat to get a luxury cabin on a 'cruise' aboard a rigid airship and to get reservations at a luxury restaurant."
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man"
-  },
-  {
-    "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer"
-  },
-  {
-    "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier"
-  },
-  {
-    "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero"
-  },
-  {
-    "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!"
+    "name": "Ray Gillette",
+    "image": "https://vignette.wikia.nocookie.net/archer/images/6/62/Ray_Gillette.png/revision/latest/scale-to-width-down/200?cb=20151013031515",
+    "intel": "An intelligence analyst, field agent, and one of the few competent members of ISIS. Like Lana, he is a much more conscientious field agent than Archer, and the two are close friends. Ray is openly gay and often verbally-abused in a sophomoric fashion by almost everyone who speaks to him, having an outright hostile relationship with Malory (who disparagingly refers to him as 'Ms. Gillette') and an often-adversarial one with Archer though they frequently assist each other. Ray has blonde hair and brown eyes, along with an effeminate voice and pencil mustache."
   }
 ]

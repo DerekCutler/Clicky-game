@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>The Playerz and the Haterz</Title>
+        <Title>Do you want games?  'Cause that's how you get games...</Title>
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
@@ -29,7 +29,7 @@ class App extends Component {
             key={friend.id}
             name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
+            intel={friend.intel}
             location={friend.location}
           />
         ))}

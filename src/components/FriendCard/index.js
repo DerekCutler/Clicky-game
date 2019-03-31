@@ -10,10 +10,10 @@ function FriendCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Name:</strong> {props.name}
+            <strong>Name:</strong> <em>{props.name}</em>
           </li>
           <li>
-            <strong>Occupation:</strong> {props.occupation}
+            <strong>Intel:</strong> <em>{props.intel}</em>
           </li>
         </ul>
       </div>
